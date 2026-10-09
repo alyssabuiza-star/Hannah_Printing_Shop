@@ -40,4 +40,4 @@ Team Rawr, Block BSIS 4-2. Web-Based Printing Service Request and Queue Manageme
 
 ## AI-use disclosure draft
 
-AI assistance was used to draft and organize Mermaid diagram source based on the team's existing Activity 3, Activity 4, and Hannah Printing Shop architecture materials. The team must verify every actor, feature, relationship, status, protocol, and database field against its MVP and repository, then record its own contribution and review work in the course form.
+AI assistance was used to draft and organize Mermaid diagram source based on the team's existing activity did.
